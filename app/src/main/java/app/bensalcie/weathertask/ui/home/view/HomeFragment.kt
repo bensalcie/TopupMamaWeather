@@ -129,7 +129,7 @@ class HomeFragment(override val layoutResourceLayout: Int = R.layout.fragment_ho
                 is ResultData.Success -> {
 
                     resultSize.data?.let{ size ->
-                        if (size < 5){
+                        if (size < 20){
                             val result = withContext(Dispatchers.Default) {
                                 (requireActivity() as MainDriverActivity).mViewModel.insertCity(CityModel(name = model.name , temp = model.main?.temp
                                     , icon = model.weather?.first()?.icon))
