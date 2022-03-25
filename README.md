@@ -26,5 +26,5 @@ Case study
  
 
 
-*   **[Download latest debug APK here] (https://github.com/alfayedoficial/Code95_Weather_Task/blob/master/debug/app-debug.apk)**.
+*   **[Download latest debug APK here] (https://github.com/bensalcie/TopupMamaWeather/blob/master/debug/app-debug.apk)**.
 
