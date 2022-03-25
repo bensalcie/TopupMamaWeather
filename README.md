@@ -3,6 +3,7 @@ Case study
 *   Build a weather app using Kotlin (or java) on android using weather data from public
     weather APIs, visual design to help you through here (not compulsory to use this, just be
     creative):
+    
 
 
  ###### **What is to be done.**
