@@ -6,8 +6,10 @@
         <entry key="app/src/main/res/drawable-v24/draw_etxt2.xml" value="0.2515625" />
         <entry key="app/src/main/res/drawable-v24/draw_etxt3.xml" value="0.2515625" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2515625" />
+        <entry key="app/src/main/res/drawable-v24/ic_search.xml" value="0.2515625" />
         <entry key="app/src/main/res/drawable/black_outline_square_rounded_shape_bg.xml" value="0.2515625" />
         <entry key="app/src/main/res/drawable/ic_exit.xml" value="0.2515625" />
+        <entry key="app/src/main/res/drawable/ic_no_gps.xml" value="0.2515625" />
         <entry key="app/src/main/res/drawable/ic_no_internet.xml" value="0.2515625" />
         <entry key="app/src/main/res/drawable/ic_reload.xml" value="0.2515625" />
         <entry key="app/src/main/res/layout/activity_one_single.xml" value="0.23541666666666666" />

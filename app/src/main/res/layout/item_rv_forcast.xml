@@ -16,7 +16,6 @@
 		  android:layout_height="wrap_content"
 		  app:strokeColor="@color/white"
 		  app:strokeWidth="1dp"
-		  app:cardBackgroundColor="@android:color/transparent"
 		  app:cardCornerRadius="@dimen/_10sdp"
 		  app:cardUseCompatPadding="true">
 
